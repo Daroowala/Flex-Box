@@ -30,7 +30,7 @@ img{
 }
 
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 320px) {
     img{
         width: 200px ;
     }
